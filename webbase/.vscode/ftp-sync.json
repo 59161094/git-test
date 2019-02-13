@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/BUU/59161094/public_html/",
+    "host": "angsila.cs.buu.ac.th",
+    "username": "59161094",
+    "password": "numfon100241",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": "/home/BUU/59161094/public_html/"
+    }
+}
